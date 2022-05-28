@@ -1,0 +1,2 @@
+# Stock-Market-Prediction
+A web app that predicts closing stock values in real time using Facebook's Prophet time series algorithm and a multi-variate, single-step time series forecasting technique. The front end of the Web App is based on Streamlit. Under yFinance, the App forecasts stock values for any specific stock specified by the user over the following few years. To make predictions, Facebook Prophet is used. The trend line, weekly, and annual seasonality, as well as the projection, are plotted.
